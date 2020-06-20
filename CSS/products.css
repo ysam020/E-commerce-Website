@@ -1,0 +1,19 @@
+.jumbotron-custom{
+    margin-top: 100px;
+}
+
+.jumbotron-custom h1, .jumbotron-custom p{
+    text-align: center;
+}
+
+.caption h3, .caption p{
+    text-align: center;
+}
+
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
